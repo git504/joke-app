@@ -21,3 +21,5 @@
 - [x] 2:05:06 - Local Storage / Session Storage
 - [x] 2:18:07 - Les cookies
 - [x] 2:25:43 - Projet - Cooking App
+
+![Logo](./logo.png)
